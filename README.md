@@ -1,4 +1,4 @@
-Dasom Kwon, Jungwoo Kim, Seng Bum Michael Yoo, & Won Mok Shim. (2024). Coordinated Computations for Naturalistic Memory Encoding and Retrieval within Hippocampal Subspaces.
+Dasom Kwon, Jungwoo Kim, Seng Bum Michael Yoo, & Won Mok Shim. (2024). Coordinated Representations for Naturalistic Memory Encoding and Retrieval within Hippocampal Subspaces.
 
 Raw fMRI data and a structured fMRI data matrix are available at https://openneuro.org/datasets/ds005468.
 
